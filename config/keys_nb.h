@@ -1,6 +1,6 @@
 /*
  * Localized Keys for Norwegian
- *
+ *ølkj
  * This file was generated from data with the following license:
  *
  * UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
